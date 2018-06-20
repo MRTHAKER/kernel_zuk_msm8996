@@ -4,7 +4,6 @@
 #include "common-led.dtsi"
 #include "common-mdss.dtsi"
 #include "common-ramoops.dtsi"
-#include "common-regulator.dtsi"
 #include "common-sound.dtsi"
 #include "common-usb.dtsi"
 #include "common-vibration.dtsi"
